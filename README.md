@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Engineering, Data Science**
 
-- 👨‍💻 All of my projects are available at [sochoag.github.io](sochoag.github.io)
+- 👨‍💻 All of my projects are available at [sochoag.github.io](https://sochoag.github.io/)
 
 - 💬 Ask me about **ESP32, Data Engineering**
 
